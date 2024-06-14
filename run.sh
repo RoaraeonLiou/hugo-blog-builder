@@ -1,7 +1,7 @@
 # 清楚原有的源文档并上传新的
-rm -rf content/posts/copyMD
-mkdir -p content/posts/copyMD
-cp -rf ../content/copyMD/* ./content/posts/copyMD
+rm -rf content/*
+mkdir -p content
+cp -rf ../content/* ./content/
 # 清楚原有静态文件
 rm -rf ./public
 # 生成静态页面
