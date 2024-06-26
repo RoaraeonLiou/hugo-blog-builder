@@ -2,10 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://roaraeonliou.github.io/categories/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://roaraeonliou.github.io/</loc>
+    <loc>http://localhost:1313/test2/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://roaraeonliou.github.io/tags/</loc>
+    <loc>http://localhost:1313/test2/third/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/copymd/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/new/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/test2/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/copymd/test/second/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-06-20T19:20:04+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/development/</loc>
+    <lastmod>2024-06-20T19:20:04+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/plugins/</loc>
+    <lastmod>2024-06-20T19:20:04+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/spf13-vim/</loc>
+    <lastmod>2024-06-20T19:20:04+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/copymd/spf13-vim-3-0-release-and-new-website/</loc>
+    <lastmod>2024-06-20T19:20:04+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vim/</loc>
+    <lastmod>2024-06-20T19:20:04+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/vim/</loc>
+    <lastmod>2024-06-20T19:20:04+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>
