@@ -29,6 +29,8 @@ params:
   # 默认主题
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  # support math
+  math: true
   # 展示阅读时间
   ShowReadingTime: true
   # 展示分享按钮
@@ -46,10 +48,10 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
@@ -175,3 +177,23 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
+    
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+          - - $
+            - $
+        enable: true
