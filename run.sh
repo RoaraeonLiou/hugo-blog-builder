@@ -5,5 +5,6 @@ cp -rf ../content/* ./content/
 # 清楚原有静态文件
 rm -rf ./public
 # 生成静态页面
-mkdir public
+#mkdir public
 hugo
+cp -rf ./content ./public
