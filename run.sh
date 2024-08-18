@@ -7,4 +7,6 @@ rm -rf ./public
 # 生成静态页面
 #mkdir public
 hugo
-cp -rf ./content ./public
+
+# for debug
+# cp -rf ./content ./public
